@@ -3,13 +3,13 @@
         <h1>TEAM</h1>
         <ol>
         <li>
-           1. PUSHPANDER KUMAR : 2023mt93337@wilp.bits-pilani.ac.in     
+        PUSHPANDER KUMAR : 2023mt93337@wilp.bits-pilani.ac.in     
         </li>
           <li>
-           2. RITIK MAHESHWARI : 2023mt93296@wilp.bits-pilani.ac.in   
+        RITIK MAHESHWARI : 2023mt93296@wilp.bits-pilani.ac.in   
         </li>
          <li>
-           3. RICHA KHARE : 2023mt93101@wilp.bits-pilani.ac.in    
+        RICHA KHARE : 2023mt93101@wilp.bits-pilani.ac.in    
         </li>
         </ol>
 </p>
