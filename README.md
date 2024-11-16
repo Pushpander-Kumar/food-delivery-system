@@ -1,14 +1,18 @@
 # Online Food Delivery Web Services
-
-
 <p>
-        <img
-        align="center"
-        src="https://github.com/parimalbiswas/tropical-jellyfish-2222/blob/main/Team.jpeg"
-        alt="Coding"
-        width="700"
-        style="display: block"/>
-    </p>
+        <h1>TEAM</h1>
+        <ol>
+        <li>
+           1. PUSHPANDER KUMAR : 2023mt93337@wilp.bits-pilani.ac.in     
+        </li>
+          <li>
+           2. RITIK MAHESHWARI : 2023mt93296@wilp.bits-pilani.ac.in   
+        </li>
+         <li>
+           3. RICHA KHARE : 2023mt93101@wilp.bits-pilani.ac.in    
+        </li>
+        </ol>
+</p>
     <br>
 
 This project is developed by a team of 4 members with the help of the Spring-Boot framework. The main objective of this Web services application is to cater needs of front-end developers to call different types of API as per the requirement.
